@@ -1,4 +1,4 @@
-# Projeto de Recuperação – Data Science
+### Data Science
 
 ## 📌 Problema
 Prever o salário com base em características como idade e experiência.
